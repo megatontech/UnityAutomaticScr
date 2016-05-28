@@ -1,6 +1,6 @@
 5.4.0b15:2.2.0.0
-StandaloneWindows
-C:/Program Files/Unity 5.4.0b15/Editor/Data/Managed/UnityEngine.dll
+WSAPlayer
+C:\Program Files\Unity 5.4.0b15\Editor\Data\PlaybackEngines\MetroSupport/Tools/UnityEngine.dll
 C:/Program Files/Unity 5.4.0b15/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
 C:/Program Files/Unity 5.4.0b15/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
 C:/Program Files/Unity 5.4.0b15/Editor/Data/Managed/UnityEditor.dll
