@@ -1,0 +1,29 @@
+Initialize engine version: 5.4.0b15 (f24f29c81497)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA Quadro FX 2800M (ID=0x61d)
+    Vendor:   NVIDIA
+    VRAM:     989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.380 seconds
+Platform assembly: C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Projects\YFAutomaticScr\YFAutomaticScr\yf_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 58Hz; virtual: 3840x1200 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.473648 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 21f4 -> priority: 1 
+  Thread -> id: 10c4 -> priority: 1 
